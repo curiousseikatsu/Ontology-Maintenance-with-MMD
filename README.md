@@ -42,3 +42,4 @@ The experiments for this research project were conducted by Natasha Shroff (Univ
 * dr. Véronique Moore, <V.Malaise@elsevier.com> - Elsevier
 * prof. Paul Groth, <p.t.groth@uva.nl> - University of Amsterdam
 
+_This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication._
