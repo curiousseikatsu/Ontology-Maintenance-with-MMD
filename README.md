@@ -23,6 +23,22 @@ To compute the MMD score, a pair-wise computation that requires 1000 samples of 
 
 * [MMD Score](https://github.com/curiousseikatsu/Ontology-Maintenance-with-MMD/blob/main/MMD_Ontology_Maintenance.ipynb)
 
+## Citing
+If you find this repository helpful, feel free to cite our publication [Supporting Ontology Maintenance with Contextual Word Embeddings and Maximum Mean Discrepancy]():
+
+```
+enter citation details later 
+```
+
+
 ## Contributors and acknowledgments
 
 The experiments for this research project were conducted by Natasha Shroff (University of Amsterdam), the project experimentation was led and supported by Dr. Pierre-Yves Vandenbussche (Elsevier Labs) and Dr. Véronique Moore (Elsevier Amsterdam). The MMD score pipeline used for this research was created by Dr. Pierre-Yves Vandenbussche. This project was supervised by Prof. Paul Groth from the University of Amsterdam. Moreover, we received weekly feedback from a team of NLP specialists at Elsevier; Janneke van de Loo, Philip Tillman and Jan-Jaap Meijerink have attended the sessions and provided their useful input to the project. 
+
+Contacts: 
+
+Natasha Shroff, <natashamayashroff@gmail.com> - University of Amsterdam
+dr. Pierre-Yves Vandenbussche, <p.vandenbussche@elsevier.com> - Elsevier 
+dr. Véronique Moore, <V.Malaise@elsevier.com> - Elsevier
+prof. Paul Groth, <p.t.groth@uva.nl> - University of Amsterdam
+
