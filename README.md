@@ -19,7 +19,7 @@ The code in this repository lets you run the following task:
 * **45GB RAM** required minimum memory size
 
 ## Using the MMD Score for ontology maintenance
-To compute the MMD score, a pair-wise computation that requires 1000 samples of SciBERT embeddings per synonym, use the following notebook:
+To compute the MMD score, a pair-wise computation that requires 1000 samples of embeddings (e.g. Sci-BERT or Sentence-BERT) per synonym, use the following notebook:
 
 * [MMD Score](https://github.com/curiousseikatsu/Ontology-Maintenance-with-MMD/blob/main/MMD_Ontology_Maintenance.ipynb)
 
