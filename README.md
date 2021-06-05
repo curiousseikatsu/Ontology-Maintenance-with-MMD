@@ -27,7 +27,7 @@ To compute the MMD score, a pair-wise computation that requires 1000 samples of 
 If you find this repository helpful, feel free to cite our publication [Supporting Ontology Maintenance with Contextual Word Embeddings and Maximum Mean Discrepancy]():
 
 ```
-enter citation details later 
+Coming soon 
 ```
 
 
